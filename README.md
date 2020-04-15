@@ -1,6 +1,6 @@
 This repository contains supplementary files to the following article:
 
-Optimal incomplete designs for stepped wedge trials in continuous time
+The hunt for efficient, incomplete designs for stepped wedge trials in continuous time
 
 Richard Hooper(1), Jessica Kasza(2), Andrew Forbes(2)
 (1) Queen Mary University of London, London, UK
