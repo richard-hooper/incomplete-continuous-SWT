@@ -6,7 +6,8 @@ Richard Hooper(1), Jessica Kasza(2), Andrew Forbes(2)
 (1) Queen Mary University of London, London, UK
 (2) Monash University, Melbourne, Australia
 
-[This article is awaiting publication - citation details will follow]
+BMC Medicial Research Methodology 2020;20:279
+https://doi.org/10.1186/s12874-020-01155-z
 
 
 
